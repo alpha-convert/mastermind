@@ -1,4 +1,3 @@
 .stack-work/
-mastermind.cabal
-.dist/
+dist
 *~
